@@ -1,0 +1,2413 @@
+[
+  {
+    "contrato_id": "341",
+    "contratante": "MUNICIPIO DE FACATATIVA",
+    "entidad": "Municipal",
+    "objeto": "Optimización, modernización , mantenimiento y/o aquisición de los equipos, sistemas y programas tecnologicos de la informacion y de las telecomunicaciones de acuerdo con las necesidades y requerimientos de la alcaldia municipal de Facatativa",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 463718854.0,
+    "actividades": [
+      {
+        "nombre": "Suministro e instalación equipos"
+      },
+      {
+        "nombre": "Mantenimiento preventivo"
+      },
+      {
+        "nombre": "Adquisición software, licenciamiento, antivirus"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432323",
+        "nombre": "Software de consultas y gestion de datos"
+      },
+      {
+        "codigo": "432324",
+        "nombre": "Programas de desarrollo"
+      },
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "261215",
+        "nombre": "Alambre electrico"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      }
+    ]
+  },
+  {
+    "contrato_id": "462",
+    "contratante": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS",
+    "entidad": "Nacional",
+    "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos, la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquler de los sitemas de ventilación y aireación interna; asi como las actividades complementarias y conexas requeridas para garantizar el óptimo funcionamiento",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 2039767345.0,
+    "actividades": [
+      {
+        "nombre": "Buscar anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "NN99999",
+    "contratante": "DEPARTAMENTO  DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Implementar en la Gobernación del Valle del Cauca un Sistema de Gestión Seguridad WEB que permita proteger las bases de datos del Sistema de Gestión Financiera Territorial - SAP y las bases de datos de otros sistemas de información que se integran con el sistema SAP, para ofrecer a los usuarios internos y externos un servicio informático eficiente, seguro y transparente. Este sistema de Gestión de Seguridad WEB estará compuesto por una herramienta de Protección contra DDoS, Un Database Firewall, Un Web Application Firewall y un Proxy Inverso",
+    "tipo_negocio": "Seguridad informatica - suministro equipos",
+    "cuantia": 980000000.0,
+    "actividades": [
+      {
+        "nombre": "Sistema de seguridad web"
+      },
+      {
+        "nombre": "Suministro de equipos - computadores, impresoras y scaneer"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CI-040-2013",
+    "contratante": "INFIVALLE",
+    "entidad": "Descentralizada",
+    "objeto": "E! CONTRATISTA se compromete a desarrollar el proyecto de modernización tecnológica, adecuación, implementación, montaje, suministro y capacitación sobre los equipos, logrando la consecución de soluciones tecnológicas de acuerdo a las necesidades y requerimientos de INFIVALLE, con el propósito de garantizar el correcto funcionamiento de los servicios de tecnología de información y de telecomunicaciones que sirven de herramienta para la gestión del Instituto.",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 293999948.0,
+    "actividades": [
+      {
+        "nombre": "Adqusición equipos de computo"
+      },
+      {
+        "nombre": "Licenciamiento"
+      },
+      {
+        "nombre": "Capacitación"
+      },
+      {
+        "nombre": "Adecuación fisica del centro de datos aires alarmas"
+      },
+      {
+        "nombre": "Adecuación centro procesamiento de datos"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CI-001-13",
+    "contratante": "CONTRALORIA DEPARTAMENTAL DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Contratar un servicio de acceso a Internet y/o enlace de datos que tendrá una dirección y un puerto único de salida con un canal de comunicación de 2048K 1:1 incluyendo servicio de soporte técnico según especificaciones conexas.",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 13700000.0,
+    "actividades": [
+      {
+        "nombre": "Manejo logistico de capacitaciones"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "432118",
+        "nombre": "Accesorios de dispositivos de entrada de datos de computador"
+      },
+      {
+        "codigo": "811025",
+        "nombre": "Servicios de permisos"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Metodología y Análisis"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      },
+      {
+        "codigo": "811315",
+        "nombre": "Metodologia y Analisis"
+      }
+    ]
+  },
+  {
+    "contrato_id": "410-22-06.013-2013",
+    "contratante": "SECRETARIA DEPARTAMENTAL DE SALUD EJECUTORA SALUD",
+    "entidad": "Departamental",
+    "objeto": "Contratar el servicio de hosting y enlaces dedicados a internet para la sede prinicpal y subsedes de Buenaventura (oficina del hospital y ETV) subsede Cartago, subsede Tulua. Laboratorio Departamental (Subsede Cali)",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 82994033.0,
+    "actividades": [
+      {
+        "nombre": "Efectuar pruebas de servicio"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811117",
+        "nombre": "Sistemas de manejo de informacion MIS"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      }
+    ]
+  },
+  {
+    "contrato_id": "00-2013-JCON-144",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 32851065.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "00-2013-JCON-126",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 10950355.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      }
+    ]
+  },
+  {
+    "contrato_id": "00-2013-JCON-428",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 8580000.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "00-2013-JCON-509",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 11545248.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "00-2013-JCON-372",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 10950355.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "942",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Consolidar un sistema integral de información como una herramienta de recolección, interpretación y analisis de información por ciclo vital y con enfoque diferencial que permita la formulación, ejecución y evaluación de acciones publlicas y de politicas publicas poblacionales en el departamento del valle del cauca",
+    "tipo_negocio": "Analitica de datos",
+    "cuantia": 150000000.0,
+    "actividades": [
+      {
+        "nombre": "Realizar ajustes a la plataforma tecnologia"
+      },
+      {
+        "nombre": "Recolección de datos"
+      },
+      {
+        "nombre": "Sistematización de información"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "916",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA (DEPARTAMENTO ADMINISTRATIVO DE LAS TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES)",
+    "entidad": "Departamental",
+    "objeto": "a) Servicio de mantenimiento preventivo y correctivo que garantice el correcto funcionamiento de las unidades de alimentacion electrica ininterrumpida (UPS) unidades de distribución de energia (PDU) y lde los reguladores electronicos de voltaje ubicados en el Datacenter de la Gobernacion del valle del cauca y en los cuartos de cableado, mediciones y calibración de circuitos. b) servicio de mantenimiento preventivo y correctivo de los aires acondicionados del Datacenter de la Gobenacion del valle del cauca c) Servicio de mantenimiento preventivo y correctivo de los servidores  SAP d) Servicio de soporte y mantenimiento de equipos activos de red instalados en el Datacenter de la gobernacion del valle y en los cuartos de cableado del edicio san Francisco e) servicio de actualizacion, soporte y mantenimiento especializado de la plataforma Widdos Server y Microsoft Exchange i) servicio de implementación de la herramienta Help people Management - ITSM g) suministro de cuarenta y cinco (45) computadores de escritorio cuatro (4)computadores portatiles y un (1) equipo de videoconferencia h) desarrollo e implementacion de un sistema de informacion para el observatorio TIC del Departamento del Valle del Cauca",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 399250000.0,
+    "actividades": [
+      {
+        "nombre": "Mantenimiento preventivo"
+      },
+      {
+        "nombre": "Servicio de soporte"
+      },
+      {
+        "nombre": "Implementación herramienta Helpeople"
+      },
+      {
+        "nombre": "Suministro de equipos - computadores"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "13",
+    "contratante": "CONTRALORIA MUNICIPAL DE PALMIRA",
+    "entidad": "Municipal",
+    "objeto": "Suministrar soluciones tecnologicas en bienes y servicios para adecuarlas a las necesidades de la entidad de acuerdo a las especificaciones tecnicas",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 150000000.0,
+    "actividades": [
+      {
+        "nombre": "Suministro de equipos"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "931415",
+        "nombre": "Desarrollo y servicios sociales"
+      }
+    ]
+  },
+  {
+    "contrato_id": "636-2013",
+    "contratante": "DEPARTAMENTO DE CORDOBA (SECRETARIA DE INTERIOR Y PARTICIPACIÓN CIUDADANA)",
+    "entidad": "Departamental",
+    "objeto": "Sumiinistro instalacion , implementacion de un sistema integral de emergencia y seguridad CCTV para la brigada decimo primera de Monteria",
+    "tipo_negocio": "Sistema de camaras",
+    "cuantia": 624207900.0,
+    "actividades": [
+      {
+        "nombre": "Suministro e instalación equipos"
+      },
+      {
+        "nombre": "Diseño de sistema RS"
+      },
+      {
+        "nombre": "Ingenieria de detalle"
+      },
+      {
+        "nombre": "Capacitación"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "861417",
+        "nombre": "Tecnologia educacional"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "831216",
+        "nombre": "Centros de informacion"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1244",
+    "contratante": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS",
+    "entidad": "Nacional",
+    "objeto": "Adquisición, configuración, instalacion y puesta en funcionamiento de un Datacenter, para reforzar la operacion de los diferentes servicios que son utilizados por los funicionarios a nivel nacional y que realizan conexiones a las aplicaciones misionales de la Unidad de Restitución de Tierras despojadas",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 1140154103.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "432315",
+        "nombre": "Software funcional especifico de la empresa"
+      },
+      {
+        "codigo": "432323",
+        "nombre": "Software de consultas y gestion de datos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1242",
+    "contratante": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS",
+    "entidad": "Nacional",
+    "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos , la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquiler de los sistemas de ventilacion y aireacion interna, asi como las actividades complementarias y/o conexas requeridas para garantizar el optimo funcionamiento de la direccion nacional: sede Bogotá, Direccion territorial dle Atlantico: sede Barranquilla, Direccion territorial Choco: sede Quibdó,",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 2095391520.0,
+    "actividades": [
+      {
+        "nombre": "Diseño de planos"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811124",
+        "nombre": "Servicios de alquiler o arrendamiento de hardware de computador"
+      },
+      {
+        "codigo": "811125",
+        "nombre": "Servicios de alquiler o arrendamiento de licencias de software de computador"
+      },
+      {
+        "codigo": "811215",
+        "nombre": "Analisis economico"
+      },
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      }
+    ]
+  },
+  {
+    "contrato_id": "6",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Brindar a la unidad los servicios de Dotación tecnologica, infraestructura TI, centro de dastos, soluciones tecnologicas y\\o infromaticas y las actividades complementarias relacionadas y\\o conexas con ellos, de acuerdo con el Anexo No 1 Tecnico - ambitos, requeridos para el desarrloo del contrato",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 17852585547.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "301624",
+        "nombre": "Muros divisorios"
+      },
+      {
+        "codigo": "431915",
+        "nombre": "Dispositivos de comunicacion personal"
+      },
+      {
+        "codigo": "431916",
+        "nombre": "Partes o accesorios de dispositivos de comunicacion personal"
+      },
+      {
+        "codigo": "432014",
+        "nombre": "Tarjetas del sistema"
+      },
+      {
+        "codigo": "432015",
+        "nombre": "Modulos o interfaces de procesadores de tablero (board) del sistema"
+      },
+      {
+        "codigo": "432018",
+        "nombre": "Dispositivos de almacenamiento"
+      },
+      {
+        "codigo": "432021",
+        "nombre": "Accesorios de dispositivos de almacenamiento extraibles"
+      },
+      {
+        "codigo": "432115",
+        "nombre": "Computadores"
+      },
+      {
+        "codigo": "432116",
+        "nombre": "Accesorios de computador"
+      },
+      {
+        "codigo": "432117",
+        "nombre": "Dispositivos informaticos de entrada de datos"
+      },
+      {
+        "codigo": "432118",
+        "nombre": "Accesorios de dispositivos de entrada de datos de computador"
+      },
+      {
+        "codigo": "432119",
+        "nombre": "Monitores y pantallas de computador"
+      },
+      {
+        "codigo": "432217",
+        "nombre": "Equipo fijo de red y componentes"
+      },
+      {
+        "codigo": "432225",
+        "nombre": "Equipo de seguridad de red"
+      },
+      {
+        "codigo": "432226",
+        "nombre": "Equipo de servicio de red"
+      },
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "432321",
+        "nombre": "Software de edicion y creacion de contenidos"
+      },
+      {
+        "codigo": "432324",
+        "nombre": "Programas de desarrollo"
+      },
+      {
+        "codigo": "432327",
+        "nombre": "Software de aplicaciones de red"
+      },
+      {
+        "codigo": "432328",
+        "nombre": "Software de administracion de redes"
+      },
+      {
+        "codigo": "432330",
+        "nombre": "Software de entorno operativo"
+      },
+      {
+        "codigo": "441031",
+        "nombre": "Suministros para impresora, fax y fotocopiadora"
+      },
+      {
+        "codigo": "451116",
+        "nombre": "Proyectores y suministros"
+      },
+      {
+        "codigo": "451118",
+        "nombre": "Equipo de presentacion de video y de mezcla de video y sonido, hardware y controladores"
+      },
+      {
+        "codigo": "451119",
+        "nombre": "Equipos, hardware y controladores para sistemas de teleconferencia y videoconferencia"
+      },
+      {
+        "codigo": "451215",
+        "nombre": "Camaras"
+      },
+      {
+        "codigo": "451216",
+        "nombre": "Accesorios para camaras"
+      },
+      {
+        "codigo": "461716",
+        "nombre": "Equipo de vigilancia y deteccion"
+      },
+      {
+        "codigo": "461915",
+        "nombre": "Prevencion contra incendios"
+      },
+      {
+        "codigo": "461916",
+        "nombre": "Equipo contra incendios"
+      },
+      {
+        "codigo": "521615",
+        "nombre": "Equipos audiovisuales"
+      },
+      {
+        "codigo": "561017",
+        "nombre": "Muebles de oficina"
+      },
+      {
+        "codigo": "561019",
+        "nombre": "Piezas de mobiliario y accesorios"
+      },
+      {
+        "codigo": "561115",
+        "nombre": "Sitios de trabajo y paquetes para la oficina"
+      },
+      {
+        "codigo": "561116",
+        "nombre": "Sistemas de paneles"
+      },
+      {
+        "codigo": "561120",
+        "nombre": "Muebles de apoyo de la computadora"
+      },
+      {
+        "codigo": "561121",
+        "nombre": "Asientos"
+      },
+      {
+        "codigo": "561122",
+        "nombre": "Sistemas de escritorios"
+      },
+      {
+        "codigo": "561210",
+        "nombre": "Mobiliario de biblioteca"
+      },
+      {
+        "codigo": "561215",
+        "nombre": "Mobiliario general de aula"
+      },
+      {
+        "codigo": "561218",
+        "nombre": "Mobiliario y accesorios de aulas vocacionales"
+      },
+      {
+        "codigo": "721033",
+        "nombre": "Servicios de mantenimiento y reparacion de infraestructura"
+      },
+      {
+        "codigo": "721515",
+        "nombre": "Servicios de sistemas electricos"
+      },
+      {
+        "codigo": "721516",
+        "nombre": "Servicios de sistemas especializados de comunicacion"
+      },
+      {
+        "codigo": "721517",
+        "nombre": "Servicios de instalacion de sistemas de seguridad fisica e industrial"
+      },
+      {
+        "codigo": "721518",
+        "nombre": "Servicios de mantenimiento y reparacion de instalacion de maquinas"
+      },
+      {
+        "codigo": "721519",
+        "nombre": "Servicios de albañileria y mamposteria"
+      },
+      {
+        "codigo": "721520",
+        "nombre": "Servicios de pañetado y drywall"
+      },
+      {
+        "codigo": "721521",
+        "nombre": "Servicios acusticos y de aislamiento"
+      },
+      {
+        "codigo": "721525",
+        "nombre": "Servicios de instalacion de pisos"
+      },
+      {
+        "codigo": "721532",
+        "nombre": "Servicios de recubrimiento, impermeabilizacion proteccion contra clima y fuego"
+      },
+      {
+        "codigo": "721540",
+        "nombre": "Servicios de edificios especializados y comercios"
+      },
+      {
+        "codigo": "721541",
+        "nombre": "Servicios de mantenimiento y reparacion de equipo de sistemas de distribucion y acondicionamiento"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811124",
+        "nombre": "Servicios de alquiler o arrendamiento de hardware de computador"
+      },
+      {
+        "codigo": "811125",
+        "nombre": "Servicios de alquiler o arrendamiento de licencias de software de computador"
+      }
+    ]
+  },
+  {
+    "contrato_id": "5",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Contratar el suministro, instalación, mantenimiento y garantia de la dotacion tecnologica para los Centros Regionales de atencion y reparacion de la UNIDAD a nivel nacional, que inlcuye puestos de trabajo, redes de voz y datos, redes electricas reguladas y normal, equipos de computo, impresoras, swiches, ademas de todas las obras complementarias para el correcto funcionamiento tecnologico de los centro regionales de acuerdo a la necesidad de la UNIDAD, todos los elementos que se requieren debe estar acorde con las caracteristicas tecnicas que se describe en los anexos tecnicos",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 585860680.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "432022",
+        "nombre": "Subconjuntos para dispositivos electronicos"
+      },
+      {
+        "codigo": "432115",
+        "nombre": "Computadores"
+      },
+      {
+        "codigo": "811125",
+        "nombre": "Servicios de alquiler o arrendamiento de licencias de software de computador"
+      },
+      {
+        "codigo": "811215",
+        "nombre": "Analisis economico"
+      }
+    ]
+  },
+  {
+    "contrato_id": "3",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Prestar el servicio de mejoramiento de la Calidad de los datos y enriquecimiento de la informacion del Registro unico de victimas",
+    "tipo_negocio": "Analitica de datos",
+    "cuantia": 893200000.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "432315",
+        "nombre": "Software funcional especifico de la empresa"
+      },
+      {
+        "codigo": "432323",
+        "nombre": "Software de consultas y gestion de datos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "2",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Contratación de la dotación tecnologica incluido puesto de trabajo para las sedes regionales y nivel central, implementacion de una mesa de ayuda que permita la administración y control de los elementos tecnologicos instalados en la modalidad de arrendamiento y la entrega de elementos tecnologicos y componentes para equipos de computo y perifericos de propiedad de la UNIDAD a titulo venta",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 10200000000.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "13227",
+    "contratante": "INSTITUCION GEOGRAFICO AGUSTIN CODAZZI",
+    "entidad": "Nacional",
+    "objeto": "Aquisición, instalación y puesta en funcionamiento del cableado estructurado y la red electrica regulada de los pisos 3,5y 6 e iluminacion para los pisos 2,3,5 y 6 del edificio central de la sede principal",
+    "tipo_negocio": "Cableado estructurado",
+    "cuantia": 846579555.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "261215",
+        "nombre": "Alambre electrico"
+      },
+      {
+        "codigo": "321519",
+        "nombre": "Dispositivos de automatizacion de control de la conectividad"
+      },
+      {
+        "codigo": "391317",
+        "nombre": "Conductos electricos, electroductos y cables aereos"
+      },
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      }
+    ]
+  },
+  {
+    "contrato_id": "990",
+    "contratante": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS",
+    "entidad": "Nacional",
+    "objeto": "Contratar la prestación del servicio de mantenimiento integral (mantenimiento preventivo y mantenimiento correctivo) con suministro de repuestos partes piezas y equipos de reposición (bolsa de repuestos partes piezas y equipos de reposició) mantenimiento y mano de obra de los sistemas de aire )acondicionado sistema de potencia ininterrumpida UPS y sistema de redes eléctricas corriente regulada corriente no regulada de las dependencias de la dirección nacional direcciones territoriales de la unidad administrativa especial de gestión de restitución de tierras despojadas",
+    "tipo_negocio": "Servicio de mantenimiento",
+    "cuantia": 299402124.0,
+    "actividades": [
+      {
+        "nombre": "suministro insumos y repuestos"
+      },
+      {
+        "nombre": "soporte tecnico emergencias"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "721512",
+        "nombre": "Servicios de construccion y mantenimiento de HVAC calefaccion y enfriamiento y aire acondicionado"
+      },
+      {
+        "codigo": "721541",
+        "nombre": "Servicios de mantenimiento y reparacion de equipo de sistemas de distribucion y acondicionamiento"
+      },
+      {
+        "codigo": "731521",
+        "nombre": "Servicios de mantenimiento y reparacion de equipo de manufactura"
+      }
+    ]
+  },
+  {
+    "contrato_id": "4",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "suministrar los servicios de implementación automatizada de la red de video conferencia para la Unidad",
+    "tipo_negocio": "Servicio de mantenimiento",
+    "cuantia": 1157100000.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811121",
+        "nombre": "suministrar los servicios de implementación automatizada de la red de video conferencia para la Unidad"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432117",
+        "nombre": "Dispositivos informaticos de entrada de datos"
+      },
+      {
+        "codigo": "432215",
+        "nombre": "Sistemas de gestion de llamadas o accesorios"
+      },
+      {
+        "codigo": "432015",
+        "nombre": "Modulos o interfaces de procesadores de tablero (board) del sistema"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Prestar a la unidad para la atencion y reparacion integral a las victimas, los servicios de centro de datos",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 5917417152.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      },
+      {
+        "nombre": "Administración centro de datos"
+      },
+      {
+        "nombre": "servicio de mesa de ayuda"
+      },
+      {
+        "nombre": "licenciamiento"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "0288-2013",
+    "contratante": "FIDUBOGOTA SA",
+    "entidad": "Privada",
+    "objeto": "Aunar esfuerzos técnicos, administrativos y financieros para impulsar el Ecosistema Digital en el departamento del Caquetá a través de la ejecución del proyecto Caquetá Vive Digital",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 3903300000.0,
+    "actividades": [
+      {
+        "nombre": "licenciamiento"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "422036",
+        "nombre": "Productos de archivar y informacion de toma de imagenes radiologicos medicos"
+      },
+      {
+        "codigo": "432217",
+        "nombre": "Equipo fijo de red y componentes"
+      },
+      {
+        "codigo": "432225",
+        "nombre": "Equipo de seguridad de red"
+      },
+      {
+        "codigo": "432226",
+        "nombre": "Equipo de servicio de red"
+      },
+      {
+        "codigo": "432315",
+        "nombre": "Software funcional especifico de la empresa"
+      },
+      {
+        "codigo": "432323",
+        "nombre": "Software de consultas y gestion de datos"
+      },
+      {
+        "codigo": "432324",
+        "nombre": "Programas de desarrollo"
+      },
+      {
+        "codigo": "432332",
+        "nombre": "Software de seguridad y proteccion"
+      },
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "721411",
+        "nombre": "Servicios de pavimentacion y superficies de edificios de infraestructura"
+      },
+      {
+        "codigo": "721540",
+        "nombre": "Servicios de edificios especializados y comercios"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811117",
+        "nombre": "Sistemas de manejo de informacion MIS"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      }
+    ]
+  },
+  {
+    "contrato_id": "741",
+    "contratante": "GOBERNACION DEL VALLE DEL CAUCA (DEPARTAMENTO ADMINISTRATIVO JURIDICO)",
+    "entidad": "Departamental",
+    "objeto": "Adquisición de equipos para el desarrollo del proyecto de actualización tecnología en el Departamento administrativo jurídico de la gobernación del Valle del cauca",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 304937204.0,
+    "actividades": [
+      {
+        "nombre": "Equipos de computo"
+      },
+      {
+        "nombre": "impresoras"
+      },
+      {
+        "nombre": "Escaner"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CCB.021-11",
+    "contratante": "CAMARA DE COMERCIO DE BUGA",
+    "entidad": "Privada",
+    "objeto": "La prestación de servicios de tecnología de la información y telecomunicaciones por parte del operador a la Camara de conformidad con las condiciones establecidas en este contrato en los anexos las órdenes de servicios de más documentos y las normas legales vigentes",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 51940160.0,
+    "actividades": [
+      {
+        "nombre": "Escaner"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811027",
+        "nombre": "Servicios de diseño e ingenieria de sistemas instrumentados de control"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "196",
+    "contratante": "COORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Prestación de servicios especializados en el área de telecomunicaciones para interconectar la sede principal y la direcciones ambientales regionales con suministro de equipos en alquiler y su correspondiente instalación y configuración más los servicios de un sistema streaming data Center (colocation) seguridad informática telefonía IP e Internet",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 730753509.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      },
+      {
+        "nombre": "Suministro de equipos"
+      },
+      {
+        "nombre": "seguridad informatica"
+      },
+      {
+        "nombre": "datacenter"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "OO-2013-ICON 33",
+    "contratante": "RED DE SALUD DE LADERA EMPRESA SOCIAL DEL ESTADO",
+    "entidad": "Municipal",
+    "objeto": "Arrendamiento de un data Center para la Red de salud de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en el contrato en los anexos en las órdenes de servicios de más documentos y normas legales vigentes",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 10950355.0,
+    "actividades": [
+      {
+        "nombre": "Instalación y mantenimiento de los equipos"
+      },
+      {
+        "nombre": "Solución de fallas"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432117",
+        "nombre": "Dispositivos informaticos de entrada de datos"
+      },
+      {
+        "codigo": "432215",
+        "nombre": "Sistemas de gestion de llamadas o accesorios"
+      },
+      {
+        "codigo": "432015",
+        "nombre": "Modulos o interfaces de procesadores de tablero (board) del sistema"
+      }
+    ]
+  },
+  {
+    "contrato_id": "436",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA - FONDO DE TECNOLOGIA DE LA INFORMACION Y LAS COMUNICACIONES",
+    "entidad": "Nacional",
+    "objeto": "Aunar esfuerzos para la prestación del servicio de conectividad en las instituciones publicas beneficiadas del programa Compartel del Ministerio de Tecnologias de la información y las comunicaciones en el Departamento del Valle del Cauca, a traves de la ampliación de infraestructura de telecomunicaciones que permita la conectividad a internet de Banda Ancha, con especial énfasis en el sector educativo, en los terminos y condiciones establecidos en el Anexo Tecnico y la propuesta presentada por el operador, asi como el establecimiento de Centros de Acceso Comunitario a Internet.",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 7960124000.0,
+    "actividades": [
+      {
+        "nombre": "operación y mantenimiento de conectividad"
+      },
+      {
+        "nombre": "Capacitación"
+      },
+      {
+        "nombre": "servicio de mesa de ayuda"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "831216",
+        "nombre": "Centros de informacion"
+      },
+      {
+        "codigo": "861416",
+        "nombre": "Organizaciones de estudiantes"
+      },
+      {
+        "codigo": "861417",
+        "nombre": "Tecnologia educacional"
+      },
+      {
+        "codigo": "931421",
+        "nombre": "Desarrollo regional"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "304",
+    "contratante": "DEPARTAMENTO DEL TOLIMA - FONDO DE TECNOLOGIA DE LA INFORMACION Y LAS COMUNICACIONES",
+    "entidad": "Nacional",
+    "objeto": "Aunar esfuerzos para la prestación del servicio de conectividad en las instituciones públicas beneficiarias del programa Compartel ministerio de tecnologías de la información y las comunicaciones en el departamento del Tolima a través de la ampliación de la infraestructura de telecomunicaciones que permita la conectividad Internet de banda ancha con especial énfasis en el sector educativo en los términos y condiciones establecidos en este anexo técnico y la propuesta presentada por el Operador así como aplicar la estrategia que impulsa el establecimiento de centros de acceso comunitario Internet",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 1769406000.0,
+    "actividades": [
+      {
+        "nombre": "servicio de mesa de ayuda"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "861416",
+        "nombre": "Organizaciones de estudiantes"
+      },
+      {
+        "codigo": "861417",
+        "nombre": "Tecnologia educacional"
+      },
+      {
+        "codigo": "931421",
+        "nombre": "Desarrollo regional"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "603-2011",
+    "contratante": "FIDUCIARIA BOGOTA",
+    "entidad": "Privada",
+    "objeto": "Anuar esfuerzos tecnicos, administrativos y financieros para impulsar al proyecto ¨Valle del Cauca Vive Digital¨que busca fortalecer el Ecosistema Digital del Tolima y mejorar los indicadores TIC por su estrecha relacion con los indicadores de desaroollo socioeconomico",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 2182492352.0,
+    "actividades": [
+      {
+        "nombre": "servicio de mesa de ayuda"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CI-001-12",
+    "contratante": "CONTRALORIA DEPARTAMENTAL DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Prestar el servicio de acceso a Internet y/o enlace de datos que tendrán una dirección en puerto único de salida con un canal de comunicación 1024 K 1:1",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 8819993.0,
+    "actividades": [
+      {
+        "nombre": "servicio de mesa de ayuda"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "801015",
+        "nombre": "Servicios de consultoria de negocios y administracion corporativa"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "432118",
+        "nombre": "Accesorios de dispositivos de entrada de datos de computador"
+      },
+      {
+        "codigo": "811025",
+        "nombre": "Servicios de permisos"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      },
+      {
+        "codigo": "811315",
+        "nombre": "Metodologia y Analisis"
+      }
+    ]
+  },
+  {
+    "contrato_id": "116-2013 FRMRE",
+    "contratante": "FONDO ROTATORIO DEL MINISTERIO DE RELACIONES EXTERIORES",
+    "entidad": "Nacional",
+    "objeto": "Desarrollo de la implementación gradual del modelo de gestión documental para algunos procesos de la entidad",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 1853300000.0,
+    "actividades": [
+      {
+        "nombre": "servicio de mesa de ayuda"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "831216",
+        "nombre": "Centros de informacion"
+      },
+      {
+        "codigo": "861417",
+        "nombre": "Tecnologia educacional"
+      },
+      {
+        "codigo": "931421",
+        "nombre": "Desarrollo regional"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1931",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "a) Servicio de mantenimiento preventivo y correctivo que garantice el correcto funcionamiento de las unidades de alimentación eléctrica ininterrumpida (UPS),Unidades de distribución de energía (PDU) y de los reguladores electrónicos de voltaje ubicados en el Data Center de la Gobernación del Valle del Cauca y en los cuartos de cableado (reemplazo de baterias). b) Servicio de Mantenimiento/ preventivo y correctivo de los servidores de los sistemas de Información de la  Gobernacion del valle del cauca. el servicio incluye la reposición de partes defectuosas. c) Servicio de soporte y mantenimiento de equipos activos de red instalados en el Data Center de la Gobernación del Valle y en los cuartos de cableado del edificio San Francisco. d) Servicio de actualización, soporte y mantenimiento especializado de la Plataforma Windows Server, Microsoft Exchange y sistema operativo LINUX. e) Servicio de soporte especializado de administración de bases de datos de los sistemas de información de la Gobernación del Valle del Cauca. f) Servicio de mantenimiento del sistema de seguridad del Data Center de la Gobernación del Valle del Cauca que incluye: i) Un sistema de cámaras (P, ii) Un sistema de detección y extinción de incendios, iii) Un sistema de alarmas, visibles y audibles, iv) Un sistema de control de acceso al data center a través de un método biométrico de detección de huella. g) Servicio de mantenimiento preventivo y correctivo de la PlantaTelefónica de la Gobernación del Valle del Cauca, incluidos repuestos que garanticen su correcto funcionamiento y la disponibilidad del servicio de comunicación telefónica. h) Servicio de soporte y mantenimiento para el correcto funcionamiento del Sistema de Información Administrativo y Financiero - SIAF-XXI, de la Secretaría de Hacienda y Finanzas Públicas de la Gobernación del Valle del Cauca",
+    "tipo_negocio": "Servicio de mantenimiento",
+    "cuantia": 286300000.0,
+    "actividades": [
+      {
+        "nombre": "soporte y mantenimiento"
+      },
+      {
+        "nombre": "Reposición de partes"
+      },
+      {
+        "nombre": "implementacion sistema biometico"
+      },
+      {
+        "nombre": "sistema de alarmas visibles y audibles"
+      },
+      {
+        "nombre": "sistema de camaras ip - administracion base de datos"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "721512",
+        "nombre": "Servicios de construccion y mantenimiento de HVAC calefaccion y enfriamiento y aire acondicionado"
+      },
+      {
+        "codigo": "721541",
+        "nombre": "Servicios de mantenimiento y reparacion de equipo de sistemas de distribucion y acondicionamiento"
+      },
+      {
+        "codigo": "731521",
+        "nombre": "Servicios de mantenimiento y reparacion de equipo de manufactura"
+      }
+    ]
+  },
+  {
+    "contrato_id": "574",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA (SECRETARIA DE HACIENDA)",
+    "entidad": "Departamental",
+    "objeto": "Adquisión e Implementacion de una red dedicada al almacenamiento de datos de alta disponibilidad (SAN) y un sistema de Backup automatizado de acuerdo a las especificaciones tecnicas exigidas por la Gobernación  del valle del cauca para garantizar el almacenamiento y recuperacion de la informacion de los sistemas informaticos utilizados por la secretaria de hacienda y finanzas publicas y las demas dependencias de la administracion departamental en el desarrollo de los procesos financieros y operativos de la entidad",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 663520000.0,
+    "actividades": [
+      {
+        "nombre": "suministro de equipos"
+      },
+      {
+        "nombre": "licenciamiento"
+      },
+      {
+        "nombre": "realizar backup"
+      },
+      {
+        "nombre": "implementar red SAN"
+      },
+      {
+        "nombre": "Migración de datos"
+      },
+      {
+        "nombre": "soporte y apoyo administrativo"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "261215",
+        "nombre": "Alambre electrico"
+      },
+      {
+        "codigo": "321519",
+        "nombre": "Dispositivos de automatizacion de control de la conectividad"
+      },
+      {
+        "codigo": "391317",
+        "nombre": "Conductos electricos, electroductos y cables aereos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "965",
+    "contratante": "DEPARTAMENTO DEL VALLE DEL CAUCA",
+    "entidad": "Departamental",
+    "objeto": "Adquisición de licencias y renovación de soporte en software y hardware del sistema de gestion de seguridad informatica de la Gobernación del valle del cauca, para garantizar su correcto funcionamiento con el fin de mitigar los riesgos de ataques ciberneticos a los sitemas de informacion utilizados para el desarrollo de los procesos operativos de la administracion departamental",
+    "tipo_negocio": "suministro de licencias",
+    "cuantia": 178000000.0,
+    "actividades": [
+      {
+        "nombre": "licenciamiento"
+      },
+      {
+        "nombre": "seguridad informatica"
+      },
+      {
+        "nombre": "soporte sobre hadware y software"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      },
+      {
+        "codigo": "811125",
+        "nombre": "Servicios de alquiler o arrendamiento de licencias de software de computador"
+      },
+      {
+        "codigo": "811419",
+        "nombre": "Servicios de investigacion y desarrollo de tecnologia manufacturera"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CIA 2014 10001",
+    "contratante": "ALCALDIA DE ALCALA",
+    "entidad": "Municipal",
+    "objeto": "Suministrar al municpio de Alcalá las soluciones tecnologicas en bienes y servicios para adecuarlas a las necesidades de la entidad de acuerdo a las especificacioens tecnicas",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 72724801.0,
+    "actividades": [
+      {
+        "nombre": "adquisicion equipos, portatil, impresoras, plotter,scaner"
+      },
+      {
+        "nombre": "gestion de riesgos"
+      },
+      {
+        "nombre": "monitoreo"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432322",
+        "nombre": "Software de gestion de contenidos"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811617",
+        "nombre": "Servicios de telecomunicaciones"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1858",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "Establecer el marco por medio del cual ERT brinde a la unidad la prestacion de servicios de telecomunicaciones , tecnologias de la información y las comunicaciones , servicios de informacion y las actividades complementarias  relacionadas y/o conexas con ellos, pudiendo importar o exportar bienes  o servicios relacionadas con las señaladas tecnologias de la informacion y las comunicaciones a la Unidad",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 3005257506.0,
+    "actividades": [
+      {
+        "nombre": "Suministro e instalación equipos"
+      },
+      {
+        "nombre": "diseño y administracion de infraestructura de comunicaciones"
+      },
+      {
+        "nombre": "implementacion de redes de voz, datos y videos"
+      },
+      {
+        "nombre": "soluciones de cableado estrcturado (electricas, telefonicaas, inforamticas)"
+      },
+      {
+        "nombre": "soluciones de redes locales"
+      },
+      {
+        "nombre": "mantenimiento, soporte monitoreo de redes"
+      },
+      {
+        "nombre": "soluciones de seguridad informatica"
+      },
+      {
+        "nombre": "administracion de contenido"
+      },
+      {
+        "nombre": "suministro, instalacion y confirguración sistemas de alarmas (incendios, seguridad perimetral, contrl de ascensores, circuito cerrado de tv, control de equipos de aire acondicionado"
+      },
+      {
+        "nombre": "suministro de mobiliario"
+      },
+      {
+        "nombre": "licenciamiento"
+      },
+      {
+        "nombre": "gestion documental y correspondencia (digitalizacion y digitación de archivos)"
+      },
+      {
+        "nombre": "capacitaciones a la medida"
+      },
+      {
+        "nombre": "mantenimiento preventivo y correctivo"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811618",
+        "nombre": "Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia"
+      },
+      {
+        "codigo": "321519",
+        "nombre": "Dispositivos de automatizacion de control de la conectividad"
+      },
+      {
+        "codigo": "432018",
+        "nombre": "Dispositivos de almacenamiento"
+      },
+      {
+        "codigo": "432115",
+        "nombre": "Computadores"
+      },
+      {
+        "codigo": "432122",
+        "nombre": "Sistemas de manejo de almacenamiento de datos de computador"
+      },
+      {
+        "codigo": "432232",
+        "nombre": "Plataformas de mensajeria por movil"
+      },
+      {
+        "codigo": "432315",
+        "nombre": "Software funcional especifico de la empresa"
+      },
+      {
+        "codigo": "432324",
+        "nombre": "Programas de desarrollo"
+      },
+      {
+        "codigo": "432328",
+        "nombre": "Software de administracion de redes"
+      },
+      {
+        "codigo": "432329",
+        "nombre": "Software para trabajo en redes"
+      },
+      {
+        "codigo": "432330",
+        "nombre": "Software de entorno operativo"
+      },
+      {
+        "codigo": "432332",
+        "nombre": "Software de seguridad y proteccion"
+      },
+      {
+        "codigo": "432334",
+        "nombre": "Software de controladores de dispositivos y utilidades"
+      },
+      {
+        "codigo": "432335",
+        "nombre": "Software de intercambio de informacion"
+      },
+      {
+        "codigo": "432337",
+        "nombre": "Software de administracion de sistemas"
+      },
+      {
+        "codigo": "451215",
+        "nombre": "Camaras"
+      },
+      {
+        "codigo": "461617",
+        "nombre": "Equipo y accesorios de rescate"
+      },
+      {
+        "codigo": "461716",
+        "nombre": "Equipo de vigilancia y deteccion"
+      },
+      {
+        "codigo": "801016",
+        "nombre": "Gerencia de proyectos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "13227",
+    "contratante": "INSTITUCION GEOGRAFICO AGUSTIN CODAZZI",
+    "entidad": "Nacional",
+    "objeto": "Aquisición, instalación y puesta en funcionamiento del cableado estructurado y la red electrica regulada de los pisos 3,5y 6 e iluminacion para los pisos 2,3,5 y 6 del edificio central de la sede principal",
+    "tipo_negocio": "Cableado estructurado",
+    "cuantia": 846579555.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "313311",
+        "nombre": "Conjuntos estructurales con acabado ligado"
+      },
+      {
+        "codigo": "313312",
+        "nombre": "Conjuntos estructurales empernados"
+      },
+      {
+        "codigo": "811015",
+        "nombre": "Ingenieria civil"
+      }
+    ]
+  },
+  {
+    "contrato_id": "364",
+    "contratante": "ARCHIVO GENERAL DE LA NACION JORGE PALACIOS PRECIADO",
+    "entidad": "Nacional",
+    "objeto": "Prestar el servicio de capacitación, soporte tecnico, suministro de insumos y parametrizacion de la interfaz grafica de la biblioteca virtual del Archivo General de la Nación , de conformidad con los requerimientos previstos en el anexo tecnico de este proceso de selección , para lo cual debera dar cumplimiento a los lineamientos de accesibliad y servicio centrados en el ciudadano",
+    "tipo_negocio": "suministro equipos - gestión documental",
+    "cuantia": 46443000.0,
+    "actividades": [
+      {
+        "nombre": "soporte tecnico"
+      },
+      {
+        "nombre": "capacitacion"
+      },
+      {
+        "nombre": "suministro equipos lectura y elaboracion codigo de barras"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432322",
+        "nombre": "Software de gestion de contenidos"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "811119",
+        "nombre": "Sistemas de recuperacion de informacion"
+      },
+      {
+        "codigo": "811615",
+        "nombre": "Servicios de administracion de acceso"
+      },
+      {
+        "codigo": "831216",
+        "nombre": "Centros de informacion"
+      }
+    ]
+  },
+  {
+    "contrato_id": "142",
+    "contratante": "SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE",
+    "entidad": "Nacional",
+    "objeto": "Suministro del servicio de acceso dedicado a internet desde y hacia la red de la superintendencia de puertos y transportes con un ancho de banda efectivo de 16000 KBPS  adicionalmente un canal dedicado de datos para la sede centro de conciliacion con un ancho de banda de 2000 KBPS, mediante el sistema de facturación mensual, teniendo en cuenta lo requerimientos tecnicos estipulados en el anexo N 1 y los niveles de servicio estipulados en el anexo N 2",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 87253044.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811615",
+        "nombre": "Servicios de administracion de acceso"
+      },
+      {
+        "codigo": "811617",
+        "nombre": "Servicios de telecomunicaciones"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      }
+    ]
+  },
+  {
+    "contrato_id": "CBS555",
+    "contratante": "MUNICIPIO DE FACATATIVA",
+    "entidad": "Municipal",
+    "objeto": "Optimización, modernización , mantenimiento y/o aquisición de los equipos, sistemas y programas tecnologicos de la informacion y de las telecomunicaciones de acuerdo con las necesidades y requerimientos de la alcaldia municipal de Facatativa",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 274999991.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "432117",
+        "nombre": "Dispositivos informaticos de entrada de datos"
+      },
+      {
+        "codigo": "432121",
+        "nombre": "Impresoras de computador"
+      },
+      {
+        "codigo": "561017",
+        "nombre": "Muebles de oficina"
+      },
+      {
+        "codigo": "561121",
+        "nombre": "Asientos"
+      },
+      {
+        "codigo": "721536",
+        "nombre": "Servicios de terminado interior, dotacion y remodelacion"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      }
+    ]
+  },
+  {
+    "contrato_id": "144",
+    "contratante": "MUNICIPIO DE ANDALUCIA",
+    "entidad": "Municipal",
+    "objeto": "Contratar una persona juridica para realizar el analisis, diseño e implementación de la red inalambrica publica, del municipio de Andalucia (V), zona wifi en el parque principal Vicente H. Cruz",
+    "tipo_negocio": "Servicio de internet",
+    "cuantia": 200000000.0,
+    "actividades": [
+      {
+        "nombre": "Analisis y diseño red inhalambrica"
+      },
+      {
+        "nombre": "adquisición equipos wifi"
+      },
+      {
+        "nombre": "capacitacion tecnica"
+      },
+      {
+        "nombre": "soporte y asistencia"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "432322",
+        "nombre": "Software de gestion de contenidos"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811617",
+        "nombre": "Servicios de telecomunicaciones"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      }
+    ]
+  },
+  {
+    "contrato_id": "338",
+    "contratante": "ARCHIVO GENERAL DE LA NACION JORGE PALACIOS PRECIADO",
+    "entidad": "Nacional",
+    "objeto": "Prestar los servicios tecnologicos de : 1) ampliacion del cableado de voz, datos y puntos de conexión electrica 2) Migración, instalación, configuración y parametrización de la interfaz gráfica acorde con los requerimientos que establezca el archivo general de la Nación y el manual de Gobierno en Línea 3.1 e implementación del Catalogo público de acceso en linea para la Biblioteca del Archivo General de la Nación (Fase II) 3) Análisis, diseño implementación del sistema de informacion para el Censo Nacional de Archivos y el piloto de 32 entidades 4) Adquisición de LICENCIAS 5) Adquisión de equipos tecnologicos, se adelante por la modalidad de seleccion de contratacion directa- contrato interadministrativo",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 839683798.0,
+    "actividades": [
+      {
+        "nombre": "Adquisicion equipos, licencias"
+      },
+      {
+        "nombre": "conexión electrica"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "432322",
+        "nombre": "Software de gestion de contenidos"
+      },
+      {
+        "codigo": "801116",
+        "nombre": "Servicios de personal temporal"
+      },
+      {
+        "codigo": "801117",
+        "nombre": "Reclutamiento de personal"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811119",
+        "nombre": "Sistemas de recuperacion de informacion"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811125",
+        "nombre": "Servicios de alquiler o arrendamiento de licencias de software de computador"
+      },
+      {
+        "codigo": "811615",
+        "nombre": "Servicios de administracion de acceso"
+      },
+      {
+        "codigo": "811616",
+        "nombre": "Servicios de correo electronico y mensajeria"
+      },
+      {
+        "codigo": "811617",
+        "nombre": "Servicios de telecomunicaciones"
+      },
+      {
+        "codigo": "811618",
+        "nombre": "Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia"
+      },
+      {
+        "codigo": "831216",
+        "nombre": "Centros de informacion"
+      },
+      {
+        "codigo": "931415",
+        "nombre": "Desarrollo y servicios sociales"
+      },
+      {
+        "codigo": "931416",
+        "nombre": "Poblacion"
+      }
+    ]
+  },
+  {
+    "contrato_id": "173",
+    "contratante": "SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE",
+    "entidad": "Nacional",
+    "objeto": "Suministrar e instalar el cableado estructurado y red regulada para el buen funcionamiento de la infraestructura tecnologica de la supertransporte",
+    "tipo_negocio": "Cableado estructurado",
+    "cuantia": 428351634.0,
+    "actividades": [
+      {
+        "nombre": "construccion, suministro, transporte, instalación, configuración y puesta en funcionamiento de una Red LAN"
+      },
+      {
+        "nombre": "cableado estructurado"
+      },
+      {
+        "nombre": "instalacion de equipos"
+      },
+      {
+        "nombre": "suministro, transporte instalacion y funcionamiento de redes electricas"
+      },
+      {
+        "nombre": "infraestructura"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      },
+      {
+        "codigo": "261215",
+        "nombre": "Alambre electrico"
+      },
+      {
+        "codigo": "321519",
+        "nombre": "Dispositivos de automatizacion de control de la conectividad"
+      },
+      {
+        "codigo": "391317",
+        "nombre": "Conductos electricos, electroductos y cables aereos"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1",
+    "contratante": "UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS",
+    "entidad": "Nacional",
+    "objeto": "prestar a la unidad los servicios de Centro de datos",
+    "tipo_negocio": "Datacenter",
+    "cuantia": 4808417152.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "432018",
+        "nombre": "Dispositivos de almacenamiento"
+      },
+      {
+        "codigo": "432122",
+        "nombre": "Sistemas de manejo de almacenamiento de datos de computador"
+      },
+      {
+        "codigo": "811121",
+        "nombre": "Servicios de internet"
+      }
+    ]
+  },
+  {
+    "contrato_id": "1242",
+    "contratante": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS",
+    "entidad": "Nacional",
+    "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos , la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquiler de los sistemas de ventilacion y aireacion interna, asi como las actividades complementarias y/o conexas requeridas para garantizar el optimo funcionamiento de la direccion nacional: sede Bogotá, Direccion territorial dle Atlantico: sede Barranquilla, Direccion territorial Choco: sede Quibdó,",
+    "tipo_negocio": "Suministro de equipos",
+    "cuantia": 3075672473.0,
+    "actividades": [
+      {
+        "nombre": "Anexo tecnico"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811618",
+        "nombre": "Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia"
+      },
+      {
+        "codigo": "261216",
+        "nombre": "Cables electricos y accesorios"
+      },
+      {
+        "codigo": "432116",
+        "nombre": "Accesorios de computador"
+      },
+      {
+        "codigo": "432231",
+        "nombre": "Componentes y equipo de infraestructura de redes moviles y digitales"
+      },
+      {
+        "codigo": "441029",
+        "nombre": "Accesorios de maquinas de oficina"
+      }
+    ]
+  },
+  {
+    "contrato_id": "472",
+    "contratante": "MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO",
+    "entidad": "Nacional",
+    "objeto": "Adquisición, implementación y puesta en producción del sistema de Gestion documental, digitalizacion de documentos y migracion de datos del sistema de correspodencia SIGDMA y la adquisicion e implemntacon de la herramienta BPM para el modelamiento automatizacion e implementacion de procesos para el MInisterio de Vivienda",
+    "tipo_negocio": "Gestión documental",
+    "cuantia": 4967386955.0,
+    "actividades": [
+      {
+        "nombre": "licenciamiento"
+      },
+      {
+        "nombre": "instalar actualizaciones"
+      },
+      {
+        "nombre": "realizar capacitaciones"
+      },
+      {
+        "nombre": "asignar recurso humano"
+      }
+    ],
+    "clases": [
+      {
+        "codigo": "811118",
+        "nombre": "Servicios de sistemas y administracion de componentes de sistemas"
+      },
+      {
+        "codigo": "811122",
+        "nombre": "Mantenimiento y soporte de software"
+      },
+      {
+        "codigo": "432322",
+        "nombre": "Software de gestion de contenidos"
+      },
+      {
+        "codigo": "432323",
+        "nombre": "Software de consultas y gestion de datos"
+      },
+      {
+        "codigo": "432324",
+        "nombre": "Programas de desarrollo"
+      },
+      {
+        "codigo": "801615",
+        "nombre": "Servicios de apoyo gerencial"
+      },
+      {
+        "codigo": "811115",
+        "nombre": "Ingenieria de software o hardware"
+      },
+      {
+        "codigo": "811116",
+        "nombre": "Programadores de computador"
+      },
+      {
+        "codigo": "811120",
+        "nombre": "Servicios de datos"
+      },
+      {
+        "codigo": "811617",
+        "nombre": "Servicios de telecomunicaciones"
+      },
+      {
+        "codigo": "831126",
+        "nombre": "Acceso de clientes"
+      }
+    ]
+  }
+]

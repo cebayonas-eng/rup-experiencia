@@ -1,0 +1,115 @@
+﻿body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background: #0a3d62;
+  color: #fff;
+  padding: 1rem;
+}
+
+.filters {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem;
+  flex-wrap: wrap;
+  background: #fff;
+}
+
+.filters select,
+.filters input {
+  padding: 0.4rem;
+}
+
+.kpis {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  flex: 1;
+  min-width: 150px;
+  border-radius: 4px;
+}
+
+.card strong {
+  font-size: 1.4rem;
+}
+
+.tabla {
+  padding: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+th, td {
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  th:nth-child(1),
+  td:nth-child(1) {
+    display: none;
+  }
+}
+.actividad-wrapper {
+  #buscador {
+  
+  width: 450px;
+
+  max-width: 100%;
+
+}
+
+.sugerencias-box {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  max-height: 250px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.sugerencias-box div {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.sugerencias-box div:hover {
+  background: #f0f0f0;
+}
+.sugerencias {
+  position: absolute;
+  background: white;
+  border: 1px solid #ccc;
+  max-height: 200px;
+  overflow-y: auto;
+  width: 100%;
+  display: none;
+  z-index: 1000;
+}
+
+.item-sugerencia {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.item-sugerencia:hover {
+  background-color: #f0f0f0;
+}

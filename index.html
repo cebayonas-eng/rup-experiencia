@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1e3a8a">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Experiencia Contractual RUP</title>
+
+  <!-- CSS correcto según tu estructura real -->
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    .actividad-wrapper {
+      position: relative;
+      width: 450px;
+      max-width: 100%;
+    }
+
+    .actividad-wrapper input {
+      width: 100%;
+    }
+
+    .sugerencias-box {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ccc;
+      max-height: 250px;
+      overflow-y: auto;
+      z-index: 1000;
+      display: none;
+    }
+
+    .sugerencias-box div {
+      padding: 8px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    .sugerencias-box div:hover {
+      background: #f0f0f0;
+    }
+  </style>
+
+</head>
+<body>
+
+<header>
+  <h1>Experiencia Contractual</h1>
+  <p>Consulta dinámica de contratos ejecutados</p>
+</header>
+
+<section class="filters">
+
+   <select id="filtro-contratante">
+     <option value="todos">Todos los contratantes</option>
+   </select>
+
+   <select id="filtro-entidad">
+     <option value="todos">Todas las entidades</option>
+   </select>
+
+   <select id="filtro-tipo">
+     <option value="todos">Todos los tipos de negocio</option>
+   </select>
+   
+  <div class="actividad-wrapper">
+    <input 
+     type="text" 
+     id="filtroClaseTexto" 
+     placeholder="Buscar por clase (código o nombre)">
+    <div id="sugerencias-clase" class="sugerencias-box"></div>
+  </div>
+
+  <div class="actividad-wrapper">
+    <input 
+    type="text" 
+    id="filtroNombreClaseTexto" 
+    placeholder="Buscar experiencia por nombre de clase (ej: Software)">
+    <div id="sugerencias-nombre-clase" class="sugerencias-box"></div>
+  </div>
+
+  <div class="actividad-wrapper">
+    <input 
+      type="text" 
+      id="filtroActividadTexto" 
+      placeholder="Buscar por actividad (Actividades complementarias)">
+    <div id="sugerencias-actividad" class="sugerencias-box"></div>
+  </div>
+
+  <div class="actividad-wrapper">
+    <input 
+      type="text" 
+      id="buscador" 
+      placeholder="Buscar por objeto o contratante">
+    <div id="sugerencias-objeto" class="sugerencias-box"></div>
+  </div>
+
+   <button id="btn-limpiar" class="btn-limpiar">
+     Limpiar filtros
+   </button>
+
+</section>
+
+<section class="kpis">
+  <div class="card">
+    <span>Total cuantía</span>
+    <strong id="total-cuantia">$0</strong>
+  </div>
+
+  <div class="card">
+    <span>Total contratos</span>
+    <strong id="total-contratos">0</strong>
+  </div>
+
+  <div class="card">
+    <span>Total contratantes</span>
+    <strong id="total-contratantes">0</strong>
+  </div>
+</section>
+
+<section class="tabla">
+  <table>
+    <thead>
+      <tr>
+        <th>Contrato</th>
+        <th>Contratante</th>
+        <th>Entidad</th>
+        <th>Tipo negocio</th>
+        <th>Cuantía</th>
+      </tr>
+    </thead>
+    <tbody id="tabla-contratos"></tbody>
+  </table>
+</section>
+
+<!-- JS correcto según tu estructura real -->
+<script src="app.js"></script>
+
+</body>
+</html>
