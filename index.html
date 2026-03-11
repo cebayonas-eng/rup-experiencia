@@ -1,54 +1,14 @@
-﻿<!DOCTYPE html>
+﻿clases<!DOCTYPE html>
 <html lang="es">
 <head>
-
-  <link rel="stylesheet" href="styles.css">
-  <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#1e3a8a">
-
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Experiencia Contractual RUP</title>
 
-  <!-- CSS correcto según tu estructura real -->
   <link rel="stylesheet" href="styles.css">
-
-  <style>
-    .actividad-wrapper {
-      position: relative;
-      width: 450px;
-      max-width: 100%;
-    }
-
-    .actividad-wrapper input {
-      width: 100%;
-    }
-
-    .sugerencias-box {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      right: 0;
-      background: white;
-      border: 1px solid #ccc;
-      max-height: 250px;
-      overflow-y: auto;
-      z-index: 1000;
-      display: none;
-    }
-
-    .sugerencias-box div {
-      padding: 8px;
-      cursor: pointer;
-      font-size: 14px;
-    }
-
-    .sugerencias-box div:hover {
-      background: #f0f0f0;
-    }
-  </style>
-
+  <meta name="theme-color" content="#1e3a8a">
 </head>
+
 <body>
 
 <header>
@@ -57,7 +17,6 @@
 </header>
 
 <section class="filters">
-
    <select id="filtro-contratante">
      <option value="todos">Todos los contratantes</option>
    </select>
@@ -69,46 +28,39 @@
    <select id="filtro-tipo">
      <option value="todos">Todos los tipos de negocio</option>
    </select>
-   
+
   <div class="actividad-wrapper">
-    <input 
-     type="text" 
-     id="filtroClaseTexto" 
-     placeholder="Buscar por clase (código o nombre)">
+    <input type="text" id="filtroClaseTexto" placeholder="Buscar por clase (código o nombre)">
     <div id="sugerencias-clase" class="sugerencias-box"></div>
   </div>
 
   <div class="actividad-wrapper">
-    <input 
-    type="text" 
-    id="filtroNombreClaseTexto" 
-    placeholder="Buscar experiencia por nombre de clase (ej: Software)">
-    <div id="sugerencias-nombre-clase" class="sugerencias-box"></div>
-  </div>
-
-  <div class="actividad-wrapper">
-    <input 
-      type="text" 
-      id="filtroActividadTexto" 
-      placeholder="Buscar por actividad (Actividades complementarias)">
+    <input type="text" id="filtroActividadTexto" placeholder="Buscar por actividad">
     <div id="sugerencias-actividad" class="sugerencias-box"></div>
   </div>
 
   <div class="actividad-wrapper">
-    <input 
-      type="text" 
-      id="buscador" 
-      placeholder="Buscar por objeto o contratante">
+    <input type="text" id="buscador" placeholder="Buscar por objeto o contratante">
     <div id="sugerencias-objeto" class="sugerencias-box"></div>
   </div>
 
-   <button id="btn-limpiar" class="btn-limpiar">
-     Limpiar filtros
-   </button>
-
+  <button id="btn-limpiar">Limpiar filtros</button>
+  <button id="btn-exportar-excel">Exportar Excel</button>
+ 
 </section>
 
 <section class="kpis">
+  <div class="card principal">
+    <span>Total SMMLV</span>
+    <strong id="total-smmlv">0</strong>
+  </div>
+
+  <div style="text-align:center; padding:1rem;">
+    <button id="btn-dashboard-toggle" class="btn-dashboard-toggle">
+      Ver Dashboard Estratégico
+    </button>
+  </div>
+
   <div class="card">
     <span>Total cuantía</span>
     <strong id="total-cuantia">$0</strong>
@@ -125,6 +77,35 @@
   </div>
 </section>
 
+<section class="dashboard">
+  <h2>Dashboard Estratégico</h2>
+  <button id="btn-exportar-pdf-dashboard" class="btn-dashboard-toggle">
+   Exportar
+  </button>
+
+  <div id="dashboard-narrativa"></div>
+  <div class="dashboard-grid">
+    <div class="chart-card">
+      <canvas id="chart-segmento"></canvas>
+    </div>
+    <div class="chart-card">
+      <canvas id="chart-entidad"></canvas>
+    </div>
+    <div class="chart-card">
+      <canvas id="chart-tipo"></canvas>
+    </div>
+  </div>
+   
+  <div id="bloque-ranking-clases">
+
+    <h3 class="titulo-ranking">
+       Clases UNSPSC con mayor participación</h3>
+
+    <div id="ranking-clases"></div>
+  </div>
+
+</section>
+
 <section class="tabla">
   <table>
     <thead>
@@ -134,14 +115,20 @@
         <th>Entidad</th>
         <th>Tipo negocio</th>
         <th>Cuantía</th>
+        <th>SMMLV</th>
       </tr>
     </thead>
     <tbody id="tabla-contratos"></tbody>
   </table>
 </section>
 
-<!-- JS correcto según tu estructura real -->
-<script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/xlsx-js-style/dist/xlsx.bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="app.js?v=5"></script>
 
 </body>
 </html>

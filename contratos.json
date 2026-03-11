@@ -6,6 +6,7 @@
     "objeto": "Optimización, modernización , mantenimiento y/o aquisición de los equipos, sistemas y programas tecnologicos de la informacion y de las telecomunicaciones de acuerdo con las necesidades y requerimientos de la alcaldia municipal de Facatativa",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 463718854.0,
+    "smmlv": 786.6307955894827,
     "actividades": [
       {
         "nombre": "Suministro e instalación equipos"
@@ -59,6 +60,7 @@
     "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos, la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquler de los sitemas de ventilación y aireación interna; asi como las actividades complementarias y conexas requeridas para garantizar el óptimo funcionamiento",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 2039767345.0,
+    "smmlv": 3460.1651314673454,
     "actividades": [
       {
         "nombre": "Buscar anexo tecnico"
@@ -90,6 +92,7 @@
     "objeto": "Implementar en la Gobernación del Valle del Cauca un Sistema de Gestión Seguridad WEB que permita proteger las bases de datos del Sistema de Gestión Financiera Territorial - SAP y las bases de datos de otros sistemas de información que se integran con el sistema SAP, para ofrecer a los usuarios internos y externos un servicio informático eficiente, seguro y transparente. Este sistema de Gestión de Seguridad WEB estará compuesto por una herramienta de Protección contra DDoS, Un Database Firewall, Un Web Application Firewall y un Proxy Inverso",
     "tipo_negocio": "Seguridad informatica - suministro equipos",
     "cuantia": 980000000.0,
+    "smmlv": 1662.4257845631892,
     "actividades": [
       {
         "nombre": "Sistema de seguridad web"
@@ -124,6 +127,7 @@
     "objeto": "E! CONTRATISTA se compromete a desarrollar el proyecto de modernización tecnológica, adecuación, implementación, montaje, suministro y capacitación sobre los equipos, logrando la consecución de soluciones tecnológicas de acuerdo a las necesidades y requerimientos de INFIVALLE, con el propósito de garantizar el correcto funcionamiento de los servicios de tecnología de información y de telecomunicaciones que sirven de herramienta para la gestión del Instituto.",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 293999948.0,
+    "smmlv": 498.727647158609,
     "actividades": [
       {
         "nombre": "Adqusición equipos de computo"
@@ -167,6 +171,7 @@
     "objeto": "Contratar un servicio de acceso a Internet y/o enlace de datos que tendrá una dirección y un puerto único de salida con un canal de comunicación de 2048K 1:1 incluyendo servicio de soporte técnico según especificaciones conexas.",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 13700000.0,
+    "smmlv": 23.240033927056828,
     "actividades": [
       {
         "nombre": "Manejo logistico de capacitaciones"
@@ -210,6 +215,7 @@
     "objeto": "Contratar el servicio de hosting y enlaces dedicados a internet para la sede prinicpal y subsedes de Buenaventura (oficina del hospital y ETV) subsede Cartago, subsede Tulua. Laboratorio Departamental (Subsede Cali)",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 82994033.0,
+    "smmlv": 140.7871636980492,
     "actividades": [
       {
         "nombre": "Efectuar pruebas de servicio"
@@ -249,6 +255,7 @@
     "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 32851065.0,
+    "smmlv": 55.72699745547074,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -287,6 +294,7 @@
     "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 10950355.0,
+    "smmlv": 18.575665818490247,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -329,6 +337,7 @@
     "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 8580000.0,
+    "smmlv": 14.554707379134861,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -371,6 +380,7 @@
     "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 11545248.0,
+    "smmlv": 19.584814249363866,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -413,6 +423,7 @@
     "objeto": "Arrendamiento de un DATACENTER  para la Red de Salud  de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en este contrato  en los anexos, las ordenes de servicios , demas documentos y las normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 10950355.0,
+    "smmlv": 18.575665818490247,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -455,6 +466,7 @@
     "objeto": "Consolidar un sistema integral de información como una herramienta de recolección, interpretación y analisis de información por ciclo vital y con enfoque diferencial que permita la formulación, ejecución y evaluación de acciones publlicas y de politicas publicas poblacionales en el departamento del valle del cauca",
     "tipo_negocio": "Analitica de datos",
     "cuantia": 150000000.0,
+    "smmlv": 254.4529262086514,
     "actividades": [
       {
         "nombre": "Realizar ajustes a la plataforma tecnologia"
@@ -492,6 +504,7 @@
     "objeto": "a) Servicio de mantenimiento preventivo y correctivo que garantice el correcto funcionamiento de las unidades de alimentacion electrica ininterrumpida (UPS) unidades de distribución de energia (PDU) y lde los reguladores electronicos de voltaje ubicados en el Datacenter de la Gobernacion del valle del cauca y en los cuartos de cableado, mediciones y calibración de circuitos. b) servicio de mantenimiento preventivo y correctivo de los aires acondicionados del Datacenter de la Gobenacion del valle del cauca c) Servicio de mantenimiento preventivo y correctivo de los servidores  SAP d) Servicio de soporte y mantenimiento de equipos activos de red instalados en el Datacenter de la gobernacion del valle y en los cuartos de cableado del edicio san Francisco e) servicio de actualizacion, soporte y mantenimiento especializado de la plataforma Widdos Server y Microsoft Exchange i) servicio de implementación de la herramienta Help people Management - ITSM g) suministro de cuarenta y cinco (45) computadores de escritorio cuatro (4)computadores portatiles y un (1) equipo de videoconferencia h) desarrollo e implementacion de un sistema de informacion para el observatorio TIC del Departamento del Valle del Cauca",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 399250000.0,
+    "smmlv": 677.2688719253605,
     "actividades": [
       {
         "nombre": "Mantenimiento preventivo"
@@ -532,6 +545,7 @@
     "objeto": "Suministrar soluciones tecnologicas en bienes y servicios para adecuarlas a las necesidades de la entidad de acuerdo a las especificaciones tecnicas",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 150000000.0,
+    "smmlv": 254.4529262086514,
     "actividades": [
       {
         "nombre": "Suministro de equipos"
@@ -567,6 +581,7 @@
     "objeto": "Sumiinistro instalacion , implementacion de un sistema integral de emergencia y seguridad CCTV para la brigada decimo primera de Monteria",
     "tipo_negocio": "Sistema de camaras",
     "cuantia": 624207900.0,
+    "smmlv": 1058.8768447837151,
     "actividades": [
       {
         "nombre": "Suministro e instalación equipos"
@@ -611,6 +626,7 @@
     "objeto": "Adquisición, configuración, instalacion y puesta en funcionamiento de un Datacenter, para reforzar la operacion de los diferentes servicios que son utilizados por los funicionarios a nivel nacional y que realizan conexiones a las aplicaciones misionales de la Unidad de Restitución de Tierras despojadas",
     "tipo_negocio": "Datacenter",
     "cuantia": 1140154103.0,
+    "smmlv": 1934.1036522476675,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -646,6 +662,7 @@
     "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos , la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquiler de los sistemas de ventilacion y aireacion interna, asi como las actividades complementarias y/o conexas requeridas para garantizar el optimo funcionamiento de la direccion nacional: sede Bogotá, Direccion territorial dle Atlantico: sede Barranquilla, Direccion territorial Choco: sede Quibdó,",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 2095391520.0,
+    "smmlv": 3554.523358778626,
     "actividades": [
       {
         "nombre": "Diseño de planos"
@@ -685,6 +702,7 @@
     "objeto": "Brindar a la unidad los servicios de Dotación tecnologica, infraestructura TI, centro de dastos, soluciones tecnologicas y\\o infromaticas y las actividades complementarias relacionadas y\\o conexas con ellos, de acuerdo con el Anexo No 1 Tecnico - ambitos, requeridos para el desarrloo del contrato",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 17852585547.0,
+    "smmlv": 30284.284218829518,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -928,6 +946,7 @@
     "objeto": "Contratar el suministro, instalación, mantenimiento y garantia de la dotacion tecnologica para los Centros Regionales de atencion y reparacion de la UNIDAD a nivel nacional, que inlcuye puestos de trabajo, redes de voz y datos, redes electricas reguladas y normal, equipos de computo, impresoras, swiches, ademas de todas las obras complementarias para el correcto funcionamiento tecnologico de los centro regionales de acuerdo a la necesidad de la UNIDAD, todos los elementos que se requieren debe estar acorde con las caracteristicas tecnicas que se describe en los anexos tecnicos",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 585860680.0,
+    "smmlv": 993.8264291772689,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -967,6 +986,7 @@
     "objeto": "Prestar el servicio de mejoramiento de la Calidad de los datos y enriquecimiento de la informacion del Registro unico de victimas",
     "tipo_negocio": "Analitica de datos",
     "cuantia": 893200000.0,
+    "smmlv": 1515.1823579304496,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1002,6 +1022,7 @@
     "objeto": "Contratación de la dotación tecnologica incluido puesto de trabajo para las sedes regionales y nivel central, implementacion de una mesa de ayuda que permita la administración y control de los elementos tecnologicos instalados en la modalidad de arrendamiento y la entrega de elementos tecnologicos y componentes para equipos de computo y perifericos de propiedad de la UNIDAD a titulo venta",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 10200000000.0,
+    "smmlv": 17302.798982188295,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1033,6 +1054,7 @@
     "objeto": "Aquisición, instalación y puesta en funcionamiento del cableado estructurado y la red electrica regulada de los pisos 3,5y 6 e iluminacion para los pisos 2,3,5 y 6 del edificio central de la sede principal",
     "tipo_negocio": "Cableado estructurado",
     "cuantia": 846579555.0,
+    "smmlv": 1436.0976335877863,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1072,6 +1094,7 @@
     "objeto": "Contratar la prestación del servicio de mantenimiento integral (mantenimiento preventivo y mantenimiento correctivo) con suministro de repuestos partes piezas y equipos de reposición (bolsa de repuestos partes piezas y equipos de reposició) mantenimiento y mano de obra de los sistemas de aire )acondicionado sistema de potencia ininterrumpida UPS y sistema de redes eléctricas corriente regulada corriente no regulada de las dependencias de la dirección nacional direcciones territoriales de la unidad administrativa especial de gestión de restitución de tierras despojadas",
     "tipo_negocio": "Servicio de mantenimiento",
     "cuantia": 299402124.0,
+    "smmlv": 507.8916437659033,
     "actividades": [
       {
         "nombre": "suministro insumos y repuestos"
@@ -1110,6 +1133,7 @@
     "objeto": "suministrar los servicios de implementación automatizada de la red de video conferencia para la Unidad",
     "tipo_negocio": "Servicio de mantenimiento",
     "cuantia": 1157100000.0,
+    "smmlv": 1962.8498727735368,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1149,6 +1173,7 @@
     "objeto": "Prestar a la unidad para la atencion y reparacion integral a las victimas, los servicios de centro de datos",
     "tipo_negocio": "Datacenter",
     "cuantia": 5917417152.0,
+    "smmlv": 10038.027399491095,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1189,6 +1214,7 @@
     "objeto": "Aunar esfuerzos técnicos, administrativos y financieros para impulsar el Ecosistema Digital en el departamento del Caquetá a través de la ejecución del proyecto Caquetá Vive Digital",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 3903300000.0,
+    "smmlv": 6621.374045801526,
     "actividades": [
       {
         "nombre": "licenciamiento"
@@ -1272,6 +1298,7 @@
     "objeto": "Adquisición de equipos para el desarrollo del proyecto de actualización tecnología en el Departamento administrativo jurídico de la gobernación del Valle del cauca",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 304937204.0,
+    "smmlv": 517.2810924512298,
     "actividades": [
       {
         "nombre": "Equipos de computo"
@@ -1309,6 +1336,7 @@
     "objeto": "La prestación de servicios de tecnología de la información y telecomunicaciones por parte del operador a la Camara de conformidad con las condiciones establecidas en este contrato en los anexos las órdenes de servicios de más documentos y las normas legales vigentes",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 51940160.0,
+    "smmlv": 88.10883799830364,
     "actividades": [
       {
         "nombre": "Escaner"
@@ -1340,6 +1368,7 @@
     "objeto": "Prestación de servicios especializados en el área de telecomunicaciones para interconectar la sede principal y la direcciones ambientales regionales con suministro de equipos en alquiler y su correspondiente instalación y configuración más los servicios de un sistema streaming data Center (colocation) seguridad informática telefonía IP e Internet",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 730753509.0,
+    "smmlv": 1239.6157913486004,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1380,6 +1409,7 @@
     "objeto": "Arrendamiento de un data Center para la Red de salud de la Ladera ESE por parte del operador al cliente de conformidad con las condiciones establecidas en el contrato en los anexos en las órdenes de servicios de más documentos y normas legales vigentes",
     "tipo_negocio": "Datacenter",
     "cuantia": 10950355.0,
+    "smmlv": 18.575665818490247,
     "actividades": [
       {
         "nombre": "Instalación y mantenimiento de los equipos"
@@ -1418,6 +1448,7 @@
     "objeto": "Aunar esfuerzos para la prestación del servicio de conectividad en las instituciones publicas beneficiadas del programa Compartel del Ministerio de Tecnologias de la información y las comunicaciones en el Departamento del Valle del Cauca, a traves de la ampliación de infraestructura de telecomunicaciones que permita la conectividad a internet de Banda Ancha, con especial énfasis en el sector educativo, en los terminos y condiciones establecidos en el Anexo Tecnico y la propuesta presentada por el operador, asi como el establecimiento de Centros de Acceso Comunitario a Internet.",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 7960124000.0,
+    "smmlv": 16019.569329845039,
     "actividades": [
       {
         "nombre": "operación y mantenimiento de conectividad"
@@ -1467,6 +1498,7 @@
     "objeto": "Aunar esfuerzos para la prestación del servicio de conectividad en las instituciones públicas beneficiarias del programa Compartel ministerio de tecnologías de la información y las comunicaciones en el departamento del Tolima a través de la ampliación de la infraestructura de telecomunicaciones que permita la conectividad Internet de banda ancha con especial énfasis en el sector educativo en los términos y condiciones establecidos en este anexo técnico y la propuesta presentada por el Operador así como aplicar la estrategia que impulsa el establecimiento de centros de acceso comunitario Internet",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 1769406000.0,
+    "smmlv": 3435.739805825243,
     "actividades": [
       {
         "nombre": "servicio de mesa de ayuda"
@@ -1506,6 +1538,7 @@
     "objeto": "Anuar esfuerzos tecnicos, administrativos y financieros para impulsar al proyecto ¨Valle del Cauca Vive Digital¨que busca fortalecer el Ecosistema Digital del Tolima y mejorar los indicadores TIC por su estrecha relacion con los indicadores de desaroollo socioeconomico",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 2182492352.0,
+    "smmlv": 4074.8550261389096,
     "actividades": [
       {
         "nombre": "servicio de mesa de ayuda"
@@ -1537,6 +1570,7 @@
     "objeto": "Prestar el servicio de acceso a Internet y/o enlace de datos que tendrán una dirección en puerto único de salida con un canal de comunicación 1024 K 1:1",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 8819993.0,
+    "smmlv": 15.563778013058055,
     "actividades": [
       {
         "nombre": "servicio de mesa de ayuda"
@@ -1580,6 +1614,7 @@
     "objeto": "Desarrollo de la implementación gradual del modelo de gestión documental para algunos procesos de la entidad",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 1853300000.0,
+    "smmlv": 3143.8507209499576,
     "actividades": [
       {
         "nombre": "servicio de mesa de ayuda"
@@ -1623,6 +1658,7 @@
     "objeto": "a) Servicio de mantenimiento preventivo y correctivo que garantice el correcto funcionamiento de las unidades de alimentación eléctrica ininterrumpida (UPS),Unidades de distribución de energía (PDU) y de los reguladores electrónicos de voltaje ubicados en el Data Center de la Gobernación del Valle del Cauca y en los cuartos de cableado (reemplazo de baterias). b) Servicio de Mantenimiento/ preventivo y correctivo de los servidores de los sistemas de Información de la  Gobernacion del valle del cauca. el servicio incluye la reposición de partes defectuosas. c) Servicio de soporte y mantenimiento de equipos activos de red instalados en el Data Center de la Gobernación del Valle y en los cuartos de cableado del edificio San Francisco. d) Servicio de actualización, soporte y mantenimiento especializado de la Plataforma Windows Server, Microsoft Exchange y sistema operativo LINUX. e) Servicio de soporte especializado de administración de bases de datos de los sistemas de información de la Gobernación del Valle del Cauca. f) Servicio de mantenimiento del sistema de seguridad del Data Center de la Gobernación del Valle del Cauca que incluye: i) Un sistema de cámaras (P, ii) Un sistema de detección y extinción de incendios, iii) Un sistema de alarmas, visibles y audibles, iv) Un sistema de control de acceso al data center a través de un método biométrico de detección de huella. g) Servicio de mantenimiento preventivo y correctivo de la PlantaTelefónica de la Gobernación del Valle del Cauca, incluidos repuestos que garanticen su correcto funcionamiento y la disponibilidad del servicio de comunicación telefónica. h) Servicio de soporte y mantenimiento para el correcto funcionamiento del Sistema de Información Administrativo y Financiero - SIAF-XXI, de la Secretaría de Hacienda y Finanzas Públicas de la Gobernación del Valle del Cauca",
     "tipo_negocio": "Servicio de mantenimiento",
     "cuantia": 286300000.0,
+    "smmlv": 464.77272727272725,
     "actividades": [
       {
         "nombre": "soporte y mantenimiento"
@@ -1666,6 +1702,7 @@
     "objeto": "Adquisión e Implementacion de una red dedicada al almacenamiento de datos de alta disponibilidad (SAN) y un sistema de Backup automatizado de acuerdo a las especificaciones tecnicas exigidas por la Gobernación  del valle del cauca para garantizar el almacenamiento y recuperacion de la informacion de los sistemas informaticos utilizados por la secretaria de hacienda y finanzas publicas y las demas dependencias de la administracion departamental en el desarrollo de los procesos financieros y operativos de la entidad",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 663520000.0,
+    "smmlv": 1077.142857142857,
     "actividades": [
       {
         "nombre": "suministro de equipos"
@@ -1716,6 +1753,7 @@
     "objeto": "Adquisición de licencias y renovación de soporte en software y hardware del sistema de gestion de seguridad informatica de la Gobernación del valle del cauca, para garantizar su correcto funcionamiento con el fin de mitigar los riesgos de ataques ciberneticos a los sitemas de informacion utilizados para el desarrollo de los procesos operativos de la administracion departamental",
     "tipo_negocio": "suministro de licencias",
     "cuantia": 178000000.0,
+    "smmlv": 288.961038961039,
     "actividades": [
       {
         "nombre": "licenciamiento"
@@ -1757,6 +1795,7 @@
     "objeto": "Suministrar al municpio de Alcalá las soluciones tecnologicas en bienes y servicios para adecuarlas a las necesidades de la entidad de acuerdo a las especificacioens tecnicas",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 72724801.0,
+    "smmlv": 118.05974188311689,
     "actividades": [
       {
         "nombre": "adquisicion equipos, portatil, impresoras, plotter,scaner"
@@ -1798,6 +1837,7 @@
     "objeto": "Establecer el marco por medio del cual ERT brinde a la unidad la prestacion de servicios de telecomunicaciones , tecnologias de la información y las comunicaciones , servicios de informacion y las actividades complementarias  relacionadas y/o conexas con ellos, pudiendo importar o exportar bienes  o servicios relacionadas con las señaladas tecnologias de la informacion y las comunicaciones a la Unidad",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 3005257506.0,
+    "smmlv": 5303.08365272631,
     "actividades": [
       {
         "nombre": "Suministro e instalación equipos"
@@ -1936,6 +1976,7 @@
     "objeto": "Aquisición, instalación y puesta en funcionamiento del cableado estructurado y la red electrica regulada de los pisos 3,5y 6 e iluminacion para los pisos 2,3,5 y 6 del edificio central de la sede principal",
     "tipo_negocio": "Cableado estructurado",
     "cuantia": 846579555.0,
+    "smmlv": 1374.3174594155844,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -1971,6 +2012,7 @@
     "objeto": "Prestar el servicio de capacitación, soporte tecnico, suministro de insumos y parametrizacion de la interfaz grafica de la biblioteca virtual del Archivo General de la Nación , de conformidad con los requerimientos previstos en el anexo tecnico de este proceso de selección , para lo cual debera dar cumplimiento a los lineamientos de accesibliad y servicio centrados en el ciudadano",
     "tipo_negocio": "suministro equipos - gestión documental",
     "cuantia": 46443000.0,
+    "smmlv": 75.39448051948052,
     "actividades": [
       {
         "nombre": "soporte tecnico"
@@ -2016,6 +2058,7 @@
     "objeto": "Suministro del servicio de acceso dedicado a internet desde y hacia la red de la superintendencia de puertos y transportes con un ancho de banda efectivo de 16000 KBPS  adicionalmente un canal dedicado de datos para la sede centro de conciliacion con un ancho de banda de 2000 KBPS, mediante el sistema de facturación mensual, teniendo en cuenta lo requerimientos tecnicos estipulados en el anexo N 1 y los niveles de servicio estipulados en el anexo N 2",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 87253044.0,
+    "smmlv": 148.01194910941476,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -2051,6 +2094,7 @@
     "objeto": "Optimización, modernización , mantenimiento y/o aquisición de los equipos, sistemas y programas tecnologicos de la informacion y de las telecomunicaciones de acuerdo con las necesidades y requerimientos de la alcaldia municipal de Facatativa",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 274999991.0,
+    "smmlv": 485.26555673195696,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -2090,6 +2134,7 @@
     "objeto": "Contratar una persona juridica para realizar el analisis, diseño e implementación de la red inalambrica publica, del municipio de Andalucia (V), zona wifi en el parque principal Vicente H. Cruz",
     "tipo_negocio": "Servicio de internet",
     "cuantia": 200000000.0,
+    "smmlv": 373.4129947722181,
     "actividades": [
       {
         "nombre": "Analisis y diseño red inhalambrica"
@@ -2138,6 +2183,7 @@
     "objeto": "Prestar los servicios tecnologicos de : 1) ampliacion del cableado de voz, datos y puntos de conexión electrica 2) Migración, instalación, configuración y parametrización de la interfaz gráfica acorde con los requerimientos que establezca el archivo general de la Nación y el manual de Gobierno en Línea 3.1 e implementación del Catalogo público de acceso en linea para la Biblioteca del Archivo General de la Nación (Fase II) 3) Análisis, diseño implementación del sistema de informacion para el Censo Nacional de Archivos y el piloto de 32 entidades 4) Adquisición de LICENCIAS 5) Adquisión de equipos tecnologicos, se adelante por la modalidad de seleccion de contratacion directa- contrato interadministrativo",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 839683798.0,
+    "smmlv": 1363.1230487012988,
     "actividades": [
       {
         "nombre": "Adquisicion equipos, licencias"
@@ -2224,6 +2270,7 @@
     "objeto": "Suministrar e instalar el cableado estructurado y red regulada para el buen funcionamiento de la infraestructura tecnologica de la supertransporte",
     "tipo_negocio": "Cableado estructurado",
     "cuantia": 428351634.0,
+    "smmlv": 831.750745631068,
     "actividades": [
       {
         "nombre": "construccion, suministro, transporte, instalación, configuración y puesta en funcionamiento de una Red LAN"
@@ -2275,6 +2322,7 @@
     "objeto": "prestar a la unidad los servicios de Centro de datos",
     "tipo_negocio": "Datacenter",
     "cuantia": 4808417152.0,
+    "smmlv": 8156.772098388465,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -2310,6 +2358,7 @@
     "objeto": "Alquiler de dotación tecnologica y las actividades complementarias relacionadas y/o conexas con esta, incluyendo el suministro  e instalacion de puestos de trabajo y elementos conexos , la instalacion, configuracion y puesta en marcha de la red de cableado estructurado de voz, datos y corriente electrica, alquiler de los sistemas de ventilacion y aireacion interna, asi como las actividades complementarias y/o conexas requeridas para garantizar el optimo funcionamiento de la direccion nacional: sede Bogotá, Direccion territorial dle Atlantico: sede Barranquilla, Direccion territorial Choco: sede Quibdó,",
     "tipo_negocio": "Suministro de equipos",
     "cuantia": 3075672473.0,
+    "smmlv": 4992.974793831168,
     "actividades": [
       {
         "nombre": "Anexo tecnico"
@@ -2349,6 +2398,7 @@
     "objeto": "Adquisición, implementación y puesta en producción del sistema de Gestion documental, digitalizacion de documentos y migracion de datos del sistema de correspodencia SIGDMA y la adquisicion e implemntacon de la herramienta BPM para el modelamiento automatizacion e implementacion de procesos para el MInisterio de Vivienda",
     "tipo_negocio": "Gestión documental",
     "cuantia": 4967386955.0,
+    "smmlv": 8426.440975402884,
     "actividades": [
       {
         "nombre": "licenciamiento"
