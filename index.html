@@ -1,4 +1,4 @@
-﻿clases<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -6,129 +6,246 @@
   <title>Experiencia Contractual RUP</title>
 
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
   <meta name="theme-color" content="#1e3a8a">
 </head>
 
 <body>
 
-<header>
-  <h1>Experiencia Contractual</h1>
-  <p>Consulta dinámica de contratos ejecutados</p>
-</header>
+  <!-- ============================= -->
+  <!-- HEADER CORPORATIVO -->
+  <!-- ============================= -->
+  <header class="header-app">
 
-<section class="filters">
-   <select id="filtro-contratante">
-     <option value="todos">Todos los contratantes</option>
-   </select>
+    <div class="header-izq">
 
-   <select id="filtro-entidad">
-     <option value="todos">Todas las entidades</option>
-   </select>
+      <img src="img/logo.png" class="logo-empresa" alt="Logo empresa">
 
-   <select id="filtro-tipo">
-     <option value="todos">Todos los tipos de negocio</option>
-   </select>
+      <div class="titulo-app">
+        <h1>Experiencia Contractual</h1>
+        <span>Panel de análisis de experiencia RUP</span>
+      </div>
 
-  <div class="actividad-wrapper">
-    <input type="text" id="filtroClaseTexto" placeholder="Buscar por clase (código o nombre)">
-    <div id="sugerencias-clase" class="sugerencias-box"></div>
-  </div>
-
-  <div class="actividad-wrapper">
-    <input type="text" id="filtroActividadTexto" placeholder="Buscar por actividad">
-    <div id="sugerencias-actividad" class="sugerencias-box"></div>
-  </div>
-
-  <div class="actividad-wrapper">
-    <input type="text" id="buscador" placeholder="Buscar por objeto o contratante">
-    <div id="sugerencias-objeto" class="sugerencias-box"></div>
-  </div>
-
-  <button id="btn-limpiar">Limpiar filtros</button>
-  <button id="btn-exportar-excel">Exportar Excel</button>
- 
-</section>
-
-<section class="kpis">
-  <div class="card principal">
-    <span>Total SMMLV</span>
-    <strong id="total-smmlv">0</strong>
-  </div>
-
-  <div style="text-align:center; padding:1rem;">
-    <button id="btn-dashboard-toggle" class="btn-dashboard-toggle">
-      Ver Dashboard Estratégico
-    </button>
-  </div>
-
-  <div class="card">
-    <span>Total cuantía</span>
-    <strong id="total-cuantia">$0</strong>
-  </div>
-
-  <div class="card">
-    <span>Total contratos</span>
-    <strong id="total-contratos">0</strong>
-  </div>
-
-  <div class="card">
-    <span>Total contratantes</span>
-    <strong id="total-contratantes">0</strong>
-  </div>
-</section>
-
-<section class="dashboard">
-  <h2>Dashboard Estratégico</h2>
-  <button id="btn-exportar-pdf-dashboard" class="btn-dashboard-toggle">
-   Exportar
-  </button>
-
-  <div id="dashboard-narrativa"></div>
-  <div class="dashboard-grid">
-    <div class="chart-card">
-      <canvas id="chart-segmento"></canvas>
     </div>
-    <div class="chart-card">
-      <canvas id="chart-entidad"></canvas>
+
+    <div class="header-der">
+
+      <button id="btn-exportar-excel" class="btn-header">
+        📊 Exportar Excel
+      </button>
+
+      <button id="btn-limpiar" class="btn-header">
+        🧹 Limpiar filtros
+      </button>
+      
+      <button id="btn-logout" class="btn-header btn-logout">
+        🔒 Cerrar sesión
+      </button>
+
     </div>
-    <div class="chart-card">
-      <canvas id="chart-tipo"></canvas>
-    </div>
+
+  </header>
+
+
+  <!-- ============================= -->
+  <!-- BARRA SUPERIOR FIJA -->
+  <!-- ============================= -->
+  <div class="barra-superior">
+
+    <section class="filters">
+      <input type="text" id="filtro-rup" placeholder="ID RUP">
+      <input type="text" id="filtro-contrato" placeholder="Número de contrato">
+
+      <select id="filtro-contratante">
+        <option value="todos">Todos los contratantes</option>
+      </select>
+
+      <select id="filtro-entidad">
+        <option value="todos">Todas las entidades</option>
+      </select>
+
+      <select id="filtro-tipo">
+        <option value="todos">Clasificacion Cluster</option>
+      </select>
+
+      <select id="filtro-terminacion">
+        <option value="todos">Todos los años de terminación</option>
+      </select>
+
+      <!-- Buscar por actividad -->
+      <div class="actividad-wrapper objeto-wrapper">
+        <input type="text" id="filtroActividadTexto" placeholder="Buscar por actividad">
+        <div id="sugerencias-actividad" class="sugerencias-box"></div>
+      </div>
+
+      <!-- Buscar por objeto o contratante (más largo) -->
+      <div class="actividad-wrapper objeto-wrapper">
+        <input type="text" id="buscador" placeholder="Buscar por objeto o contratante">
+        <div id="sugerencias-objeto" class="sugerencias-box"></div>
+      </div>
+      
+      <!-- =========================
+           BÚSQUEDA MÚLTIPLE POR CLASE
+      ========================= -->
+      <div class="clases-multi-wrapper clases-multi-inline">
+        <label class="label-filtro-clases">Búsqueda múltiple por clase</label>
+
+        <div class="clases-multi-box">
+          <input
+            type="text"
+            id="filtroClaseMulti"
+            placeholder="Búsqueda múltiple por clase (ej. 432315)"
+            autocomplete="off"
+          />
+
+          <button type="button" id="btnAgregarClaseMulti" class="btn-clase-multi">
+            Agregar clase
+          </button>
+        </div>
+
+        <div id="sugerenciasClaseMulti" class="sugerencias-box"></div>
+
+        <div id="chipsClasesMulti" class="chips-clases-multi"></div>
+
+        <div class="acciones-clases-multi">
+          <button type="button" id="btnLimpiarClasesMulti" class="btn-limpiar-clases-multi">
+            Limpiar clases
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Barra visual de filtros activos -->
+    <div id="barra-filtros-activos" class="barra-filtros-activos" style="display:none;"></div>
+
+    <section class="kpis">
+
+      <div class="card principal">
+        <span>Total SMMLV</span>
+        <strong id="total-smmlv">0</strong>
+      </div>
+
+      <div class="card card-dashboard">
+        <button id="btn-dashboard-toggle" class="btn-dashboard-toggle" aria-pressed="false">
+          Ver Dashboard Estratégico
+        </button>
+      </div>
+
+      <div class="card">
+        <span>Total cuantía</span>
+        <strong id="total-cuantia">$0</strong>
+      </div>
+
+      <div class="card">
+        <span>Total contratos</span>
+        <strong id="total-contratos">0</strong>
+      </div>
+
+      <div class="card">
+        <span>Total contratantes</span>
+        <strong id="total-contratantes">0</strong>
+      </div>
+
+    </section>
+
   </div>
-   
-  <div id="bloque-ranking-clases">
 
-    <h3 class="titulo-ranking">
-       Clases UNSPSC con mayor participación</h3>
 
-    <div id="ranking-clases"></div>
-  </div>
+  <!-- ============================= -->
+  <!-- CONTENEDOR PRINCIPAL -->
+  <!-- ============================= -->
+  <main id="app">
 
-</section>
+    <!-- ============================= -->
+    <!-- VISTA TABLA -->
+    <!-- ============================= -->
+    <section id="vista-tabla">
 
-<section class="tabla">
-  <table>
-    <thead>
-      <tr>
-        <th>Contrato</th>
-        <th>Contratante</th>
-        <th>Entidad</th>
-        <th>Tipo negocio</th>
-        <th>Cuantía</th>
-        <th>SMMLV</th>
-      </tr>
-    </thead>
-    <tbody id="tabla-contratos"></tbody>
-  </table>
-</section>
+      <section class="tabla">
+        <table>
+          <thead>
+            <tr>
+              <th>ID RUP</th>
+              <th>Contrato</th>
+              <th>Contratante</th>
+              <th>Entidad</th>
+              <th>Tipo negocio</th>
+              <th>Terminación</th>
+              <th>Cuantía</th>
+              <th>SMMLV</th>
+            </tr>
+          </thead>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
-<script src="https://cdn.jsdelivr.net/npm/xlsx-js-style/dist/xlsx.bundle.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
-<script src="app.js?v=5"></script>
+          <tbody id="tabla-contratos"></tbody>
+        </table>
+      </section>
+
+    </section>
+
+
+    <!-- ============================= -->
+    <!-- VISTA DASHBOARD -->
+    <!-- ============================= -->
+    <section id="vista-dashboard">
+
+      <section class="dashboard">
+
+        <div class="dashboard-topbar">
+          <div class="dashboard-heading">
+            <span class="dashboard-badge">Vista ejecutiva</span>
+            <h2>Dashboard Estratégico</h2>
+          </div>
+
+          <button id="btn-exportar-pdf-dashboard" class="btn-dashboard-toggle btn-exportar-dashboard">
+            Exportar PDF
+          </button>
+        </div>
+
+        <div id="dashboard-narrativa"></div>
+
+        <div class="dashboard-grid">
+
+          <div class="chart-card">
+            <canvas id="chart-segmento"></canvas>
+          </div>
+
+          <div class="chart-card">
+            <canvas id="chart-entidad"></canvas>
+          </div>
+
+          <div class="chart-card">
+            <canvas id="chart-tipo"></canvas>
+          </div>
+
+        </div>
+
+        <div id="bloque-ranking-clases">
+
+          <h3 class="titulo-ranking">
+            Clases UNSPSC con mayor participación
+          </h3>
+
+          <div id="ranking-clases" class="ranking-clases"></div>
+
+        </div>
+
+      </section>
+
+    </section>
+
+  </main>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx-js-style/dist/xlsx.bundle.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+  <!-- Mantén tu JS actual -->
+  <script src="app.js?v=33"></script>
 
 </body>
 </html>
