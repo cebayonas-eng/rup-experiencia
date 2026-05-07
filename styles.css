@@ -961,3 +961,73 @@ grid-column:span 2;
 .btn-logout:hover {
   background: #ef4444;
 }
+/* =========================
+   RESPONSIVE CONTROLADO
+   ========================= */
+
+/* Evita desbordes globales */
+body {
+    overflow-x: hidden;
+}
+
+/* TABLA SCROLL EN MÓVIL */
+.tabla-responsive {
+    width: 100%;
+    overflow-x: auto;
+}
+
+/* Tabla mínima para no romper columnas */
+.tabla table {
+    min-width: 900px;
+}
+
+/* HEADER Y FILTROS FLEXIBLES */
+@media (max-width: 768px) {
+
+    /* Header */
+    .header-app {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    /* Botones arriba */
+    .barra-superior {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+    }
+
+    /* Filtros */
+    .filtros {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .filtros input,
+    .filtros select {
+        width: 100% !important;
+    }
+
+    /* Cards (totales) */
+    .resumen {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* BOTÓN CERRAR SESIÓN */
+    #btnLogout {
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        z-index: 999;
+    }
+
+    /* LOGIN */
+    .login-container {
+        width: 90% !important;
+        padding: 20px;
+    }
+}
