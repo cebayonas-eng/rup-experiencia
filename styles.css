@@ -917,117 +917,66 @@ body.modo-estrategico .dashboard h2 {
   z-index:99999;
 }
 
-/* ==========================================
-   RESPONSIVE
-   ========================================== */
-
-@media(max-width:1200px){
-
-.filters{
-grid-template-columns:repeat(2,1fr);
-}
-
-.buscador-objeto{
-grid-column:span 2;
-}
-
-.clases-multi-wrapper{
-grid-column:span 2;
-}
-
-}
-
-.objeto-wrapper{
-  grid-column: span 2 !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-}
-
-.objeto-wrapper .buscador-objeto{
-  display: block !important;
-  width: 100% !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  box-sizing: border-box !important;
-  flex: none !important;
-}
-
-.btn-logout {
-  background: #ef4444;
-  color: white;
-}
-
-.btn-logout:hover {
-  background: #ef4444;
-}
 /* =========================
-   RESPONSIVE CONTROLADO
+   RESPONSIVE SEGURO
    ========================= */
 
-/* Evita desbordes globales */
 body {
     overflow-x: hidden;
 }
 
-/* TABLA SCROLL EN MÓVIL */
+/* CONTENEDOR TABLA */
 .tabla-responsive {
     width: 100%;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
-/* Tabla mínima para no romper columnas */
+/* TABLA */
 .tabla table {
     min-width: 900px;
 }
 
-/* HEADER Y FILTROS FLEXIBLES */
+/* LOGIN RESPONSIVE */
 @media (max-width: 768px) {
 
-    /* Header */
+    .login-container {
+        width: 92% !important;
+        max-width: 380px;
+        margin: auto;
+        padding: 24px;
+        box-sizing: border-box;
+    }
+
+    .login-container input,
+    .login-container button {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* SOLO ajustes suaves */
     .header-app {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
+        padding: 10px;
     }
 
-    /* Botones arriba */
-    .barra-superior {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 8px;
+    .header-app h1 {
+        font-size: 28px;
     }
 
-    /* Filtros */
-    .filtros {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
+    .header-app p {
+        font-size: 14px;
     }
 
-    .filtros input,
-    .filtros select {
-        width: 100% !important;
+    /* Dashboard botón */
+    #btnDashboard {
+        width: 100%;
     }
 
-    /* Cards (totales) */
-    .resumen {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-    }
-
-    /* BOTÓN CERRAR SESIÓN */
+    /* Botón cerrar sesión */
     #btnLogout {
         position: fixed;
-        bottom: 10px;
-        right: 10px;
-        z-index: 999;
-    }
-
-    /* LOGIN */
-    .login-container {
-        width: 90% !important;
-        padding: 20px;
+        bottom: 12px;
+        right: 12px;
+        z-index: 9999;
     }
 }
