@@ -917,62 +917,118 @@ body.modo-estrategico .dashboard h2 {
   z-index:99999;
 }
 
-/* =========================
-   RESPONSIVE SEGURO
-   ========================= */
+/* =====================================
+   MOBILE REAL
+===================================== */
 
-body {
-    overflow-x: hidden;
-}
+@media screen and (max-width: 768px) {
 
-/* CONTENEDOR TABLA */
-.tabla-responsive {
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-}
-
-/* TABLA */
-.tabla table {
-    min-width: 900px;
-}
-
-/* LOGIN RESPONSIVE */
-@media (max-width: 768px) {
-
-    .login-container {
-        width: 92% !important;
-        max-width: 380px;
-        margin: auto;
-        padding: 24px;
-        box-sizing: border-box;
+    /* CONTENEDOR GENERAL */
+    body {
+        overflow-x: hidden;
     }
 
-    .login-container input,
-    .login-container button {
+    #app {
         width: 100%;
-        box-sizing: border-box;
+        overflow-x: hidden;
     }
 
-    /* SOLO ajustes suaves */
+    /* HEADER */
     .header-app {
-        padding: 10px;
+        padding: 12px;
     }
 
     .header-app h1 {
-        font-size: 28px;
+        font-size: 18px;
+        line-height: 1.2;
     }
 
     .header-app p {
-        font-size: 14px;
+        font-size: 12px;
     }
 
-    /* Dashboard botón */
-    #btnDashboard {
+    /* BOTONES SUPERIORES */
+    .barra-superior {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    .barra-superior button {
+        flex: 1 1 45%;
+        min-width: 120px;
+    }
+
+    /* FILTROS */
+    .filtros,
+    .filtros-grid,
+    .contenedor-filtros {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 10px;
         width: 100%;
     }
 
-    /* Botón cerrar sesión */
+    .filtros input,
+    .filtros select,
+    .filtros button {
+        width: 100% !important;
+        min-width: 100% !important;
+        box-sizing: border-box;
+    }
+
+    /* BUSQUEDA MULTIPLE */
+    .busqueda-clases {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    /* CARDS */
+    .resumen,
+    .cards,
+    .cards-resumen {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 12px;
+    }
+
+    .card {
+        width: 100% !important;
+        box-sizing: border-box;
+    }
+
+    /* TABLA */
+    .tabla-responsive {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .tabla table {
+        min-width: 900px;
+    }
+
+    /* DASHBOARD */
+    #vista-dashboard {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    canvas {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    /* LOGIN */
+    .login-container {
+        width: 92%;
+        max-width: 360px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    /* BOTON LOGOUT */
     #btnLogout {
         position: fixed;
         bottom: 12px;
