@@ -923,7 +923,7 @@ body.modo-estrategico .dashboard h2 {
 @media screen and (max-width: 768px) {
 
     body{
-        overflow-x:hidden;
+        overflow-x:auto;
     }
 
     /* HEADER */
@@ -1082,6 +1082,32 @@ body.modo-estrategico .dashboard h2 {
         right:12px;
         bottom:12px;
         z-index:99999;
+    }
+
+}
+/* ==========================================
+   ROTACION HORIZONTAL MOVIL
+========================================== */
+
+@media screen and (max-width: 768px){
+
+    html,
+    body{
+        width:100%;
+        overflow-x:auto;
+    }
+
+    .tabla-responsive{
+        overflow-x:auto;
+        -webkit-overflow-scrolling:touch;
+    }
+
+    .tabla table{
+        min-width:1100px;
+    }
+
+    .dashboard{
+        overflow-x:hidden;
     }
 
 }
