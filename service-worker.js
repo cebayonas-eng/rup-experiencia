@@ -1,7 +1,7 @@
 // ==============================
 // VERSIONADO
 // ==============================
-const CACHE_NAME = "rup-dashboard-v6"; // 🔥 cambia versión cuando actualices
+const CACHE_NAME = "rup-dashboard-v7"; // 🔥 cambia versión cuando actualices
 
 // ==============================
 // ARCHIVOS A CACHEAR (APP SHELL)
